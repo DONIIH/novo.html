@@ -1,0 +1,25 @@
+
+body {
+background-image: url(https://images3.alphacoders.com/129/1291095.jpg);
+background-repeat: no-repeat;
+
+
+}
+
+p {
+font: optional; color: white;
+}
+
+h1 { 
+font: large; margin-top: left;
+  margin: auto;
+font-style: italic;
+width: 1000px;
+height: 200px;
+
+    background-image: url(https://eduardosalerno.com.br/wp-content/uploads/2018/07/o-que-e-css-e-quais-sao-os-tipos-de-folhas-de-estilo.png);
+}
+
+h2 {
+    color: aliceblue; font-style: italic; font
+}
